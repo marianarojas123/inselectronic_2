@@ -3,7 +3,7 @@
   base = "."
   
   # Comando para instalar dependencias y construir
-  command = "npm ci && npm run build"
+  command = "chmod +x build.sh && ./build.sh"
   
   # Directorio de publicación
   publish = "dist"
@@ -11,7 +11,6 @@
   # Comando de construcción personalizado
   [build.environment]
     NODE_VERSION = "18"
-    NPM_FLAGS = "--legacy-peer-deps"
 
 # Configuración de redirecciones para SPA (Single Page Application)
 [[redirects]]
