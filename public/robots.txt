@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://inselectronic.com/sitemap.xml
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow important pages
+Allow: /services/
+Allow: /products/
+Allow: /contact/
+Allow: /portfolio/
+
+# Crawl delay
+Crawl-delay: 1 
