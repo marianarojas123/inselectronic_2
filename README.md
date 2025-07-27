@@ -73,10 +73,14 @@ npm run build
 
 Este proyecto es propiedad de Inselectronic.
 
+## 👨‍💻 Desarrollador
+
+**Mariana A. Rojas R.** - Desarrolladora Full Stack
+
 ## 🤝 Contribución
 
 Para contribuir al proyecto, por favor contacta al equipo de desarrollo.
 
 ---
 
-Desarrollado con ❤️ por el equipo de Inselectronic
+Desarrollado con ❤️ por **Mariana A. Rojas R.** para Inselectronic

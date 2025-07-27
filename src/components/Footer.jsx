@@ -177,6 +177,10 @@ function Footer() {
           <span>
             Hecho con <HeartIcon><FaHeart /></HeartIcon> para la comunidad
           </span>
+          <span>•</span>
+          <span>
+            Desarrollado por <strong>Mariana A. Rojas R.</strong>
+          </span>
         </Copyright>
       </FooterContent>
     </FooterContainer>

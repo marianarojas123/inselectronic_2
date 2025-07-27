@@ -107,8 +107,8 @@ class SEOManager {
     this.addMetaTag('googlebot', 'index, follow');
     
     // Meta tags de autor
-    this.addMetaTag('author', 'INSELECTRONIC');
-    this.addMetaTag('copyright', 'INSELECTRONIC');
+    this.addMetaTag('author', 'Mariana A. Rojas R. - INSELECTRONIC');
+    this.addMetaTag('copyright', 'INSELECTRONIC - Desarrollado por Mariana A. Rojas R.');
     
     // Meta tags de verificación
     this.addMetaTag('google-site-verification', 'your-verification-code');
@@ -188,7 +188,7 @@ class SEOManager {
       sameAs: Object.values(SEO_CONFIG.socialMedia),
       founder: {
         '@type': 'Person',
-        name: 'INSELECTRONIC Team'
+        name: 'Mariana A. Rojas R.'
       },
       foundingDate: '2023',
       industry: 'Technology',
