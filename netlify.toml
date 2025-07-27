@@ -2,10 +2,10 @@
   # Directorio donde está el código fuente
   base = "."
   
-  # Comando para instalar dependencias
-  command = "npm install"
+  # Comando para instalar dependencias y construir
+  command = "npm install && npm run build"
   
-  # Comando para construir la aplicación
+  # Directorio de publicación
   publish = "dist"
   
   # Comando de construcción personalizado
